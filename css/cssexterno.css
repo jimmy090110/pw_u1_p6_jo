@@ -1,0 +1,25 @@
+
+   /*Comentario*/
+    /*Uniersal*/
+    /*
+    *{
+        color: blue;
+        background-color:aliceblue;
+    }
+    */
+    /*Por tipo de elemento*/
+
+h1{
+    color: rgb(50, 38, 61);
+    background: rgb(24, 16, 160);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.clasemedia{
+    color: rgb(25, 75, 139);
+    background-color: yellow;
+}
+.clasealta{
+    color: black;
+    background-color: antiquewhite;
+}

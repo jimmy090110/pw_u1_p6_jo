@@ -1,0 +1,44 @@
+
+.menu li {
+    list-style: none;
+    display: inline-block;
+   /* margin: 10px; /*aplica a los 4 lados*/
+    margin: 5px 15px; /* primero aplica arriba y luego abajo, el segundo numero aplica derecha he izquierda*/
+    /*margin: 10px 20px 30px 40px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 40px;
+    border: 10px;
+    padding: 10px;
+    */
+    border: 1px dashed black;
+    padding: 5px 10px;
+    font-family: cursive;
+    font-size: 20px;
+}
+.menu{
+    background: #769569 ;
+    padding: 5px 10px;
+    text-align: left;
+}
+h1 {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+}
+
+/*
+.menu, li {
+    color:red;
+}
+
+li {
+    background-color: black;
+}
+
+*/
