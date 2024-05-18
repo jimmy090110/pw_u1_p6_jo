@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p:before{
+    margin-top: 30px;
+    content: attr(type); 
+    color: #404443 ;
+    grid-template-columns: 150px;
+}
+.form2{
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(3,190px);
+    grid-template-rows: 150px repeat(4, 75px);
+    padding: 30px;
+}
+.col2{
+    grid-column: span 2;
+    grid-row: 300px;
+}
+
+   
+ 

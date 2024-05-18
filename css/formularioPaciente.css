@@ -4,7 +4,7 @@
     align-items: center;   
 }
 body{
-    background: #59ABE3;
+    background: #5bb8a8;
 }
 
 /* p:before para mostrar el texto en los tipo type*/
@@ -45,3 +45,19 @@ h2{
 
 }
 
+.boton{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-top: 20px;
+
+}
+
+button{
+    padding: 5px 10px;
+    background: #78788c;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
